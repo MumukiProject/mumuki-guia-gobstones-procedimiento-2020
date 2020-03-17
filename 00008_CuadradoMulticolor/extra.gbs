@@ -1,0 +1,17 @@
+procedure PonerLineaMulticolor4() {
+  PonerCasilleroMulticolor()
+  Mover(Este)
+  PonerCasilleroMulticolor()
+  Mover(Este)
+  PonerCasilleroMulticolor()
+  Mover(Este)
+  PonerCasilleroMulticolor() 
+  IrAlBorde(Oeste)
+}
+
+procedure PonerCasilleroMulticolor() {
+  Poner(Verde)
+  Poner(Rojo)
+  Poner(Negro)
+  Poner(Azul)
+}

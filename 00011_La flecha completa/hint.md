@@ -1,0 +1,1 @@
+Recordá que se pueden invocar procedimientos dentro de procedimientos, así que vas a tener que usar `DibujarPuntaNegra` dentro de la definición de `DibujarFlechaNegra`. 

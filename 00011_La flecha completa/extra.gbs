@@ -1,0 +1,8 @@
+procedure DibujarPuntaNegra() {
+  Poner(Negro)
+  Mover(Norte)
+  Poner(Negro)
+  Mover(Sur)
+  Mover(Este)
+  Poner(Negro)
+}

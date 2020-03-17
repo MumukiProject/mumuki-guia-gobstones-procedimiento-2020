@@ -1,0 +1,3 @@
+A diferencia de la guía anterior, donde sólo usamos comandos que venían con Gobstones, en esta lección aprendiste a **crear tus propios comandos** :muscle:. Y eso es lo más lindo de programar, poder inventar tus propias tareas para resolver los problemas. :tada:
+
+Esta poderosa herramienta nos va a permitir **reutilizar más código**, ya que al usar un **procedimiento** podremos descomponer un problema en subproblemas más pequeños y manejables. :star_struck:

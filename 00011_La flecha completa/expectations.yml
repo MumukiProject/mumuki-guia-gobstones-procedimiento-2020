@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:DibujarFlechaNegra
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarFlechaNegra
+  inspection: Uses:DibujarPuntaNegra
