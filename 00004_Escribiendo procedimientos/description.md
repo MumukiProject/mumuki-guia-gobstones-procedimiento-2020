@@ -1,10 +1,29 @@
-Como vimos en los ejercicios anteriores, se puede empezar a diferenciar dos tipos de comandos dentro de un programa:
+_Llegó el momento de programar desde cero. ¡No te preocupes! Como recién estamos empezando, repasemos lo que aprendimos._
 
-- los que **vienen definidos por el lenguaje** y nos sirven para expresar operaciones básicas, como `Mover`, `Poner` y `Sacar`. A estos los llamaremos **comandos primitivos**, o simplemente **primitivas**;
-- y los que **definimos por nuestra cuenta**, que nos sirven para expresar tareas más complejas. Como el nombre de esta lección sugiere, estos son los **procedimientos**.
+A esta altura ya sabemos que para programar siempre tenemos que tener en cuenta la sintaxis. Para definir nuevos procedimientos también tenemos reglas: 
+- empezamos con la palabra reservada `procedure`
+- elegimos un nombre que lo describa y lo escribimos con mayúscula seguido de paréntesis `()` 
+- encerramos las acciones que queremos que haga entre llaves `{}`
 
-Cuando creamos un procedimiento estamos "enseñándole"  a la computadora a realizar una tarea nueva, que originalmente no estaba incluida en el lenguaje. Sería imposible escribir un lenguaje que traiga _TODO_ lo que se nos pueda ocurrir hacer, ¿no? :thinking:
+Entonces, un procedimiento que se mueve cuatro celdas al Norte se va a definir así:
+
+``` gobstones
+procedure Mover4AlNorte() {
+	Mover(Norte)
+	Mover(Norte)
+	Mover(Norte)
+	Mover(Norte)
+}
+```
+
+Y si lo queremos utilizar, tenemos que invocarlo dentro del program escribiendo su nombre tal cual y sin olvidar los paréntesis ¡Prestá atención a la sintaxis!
+
+``` gobstones
+program {
+	Mover4AlNorte()
+}
+```
 
 ¡Ahora te toca a vos! :grin:
 
-> Definí un procedimiento `Poner3Rojas` que ponga 3 bolitas rojas e invocalo en el `program`.
+> Definí un procedimiento `Poner3Verdes` que ponga 3 bolitas verdes en la celda actual e invocalo en el `program`.
