@@ -22,4 +22,4 @@ program {
 }
 ```
 
-> ¡Presioná enviar para comprobar tu respuesta anterior!
+> ¡Presioná Continuar para comprobar tu respuesta anterior!
