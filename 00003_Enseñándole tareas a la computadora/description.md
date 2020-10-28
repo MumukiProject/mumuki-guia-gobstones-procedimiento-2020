@@ -5,7 +5,7 @@ Como viste en el ejemplo del cuadrado, se puede empezar a diferenciar dos tipos 
 
 Cuando _definimos_ un procedimiento estamos "enseñándole" a la computadora :computer: a realizar una tarea nueva, que originalmente no estaba incluida en el lenguaje. 
 
-:eyes: Prestale atención a la sintaxis del ejemplo para ver bien cómo definimos un procedimiento y cómo lo _invocamos_ en un program. 
+:eyes: Prestale atención a la sintaxis del ejemplo para ver bien cómo definimos un procedimiento y cómo lo _invocamos_ en un `program`. 
 
 ```gobstones
 procedure Poner3Rojas() {
@@ -19,4 +19,4 @@ program {
 }
 ```
 
-> :thinking: ¿Qué te parece que hace el nuevo procedimiento? Copiá y enviá el código para ver qué pasa.
+> ¿Qué te parece que hace el nuevo procedimiento :thinking:? Copiá y enviá el código para ver qué pasa.
