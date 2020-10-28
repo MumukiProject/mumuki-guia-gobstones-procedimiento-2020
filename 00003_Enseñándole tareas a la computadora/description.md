@@ -4,7 +4,8 @@ Como viste en el ejemplo del cuadrado, se puede empezar a diferenciar dos tipos 
 - y los que **definimos nosotros**, que nos sirven para expresar tareas más complejas. Como el nombre de esta lección sugiere, estos son los **procedimientos**.
 
 Cuando _definimos_ un procedimiento estamos "enseñándole" a la computadora :computer: a realizar una tarea nueva, que originalmente no estaba incluida en el lenguaje. 
-Prestale atención a la sintaxis del ejemplo para ver bien cómo definimos un procedimiento y cómo lo _invocamos_ en un program. ¿qué te parece que hace el nuevo procedimiento?
+
+:eyes: Prestale atención a la sintaxis del ejemplo para ver bien cómo definimos un procedimiento y cómo lo _invocamos_ en un program. 
 
 ```gobstones
 procedure Poner3Rojas() {
@@ -18,4 +19,4 @@ program {
 }
 ```
 
-> Copiá y enviá el código para ver qué pasa.
+> :thinking: ¿Qué te parece que hace el nuevo procedimiento? Copiá y enviá el código para ver qué pasa.
