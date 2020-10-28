@@ -1,6 +1,7 @@
-¡Genial! **Declaraste** tu primer procedimiento y luego lo **invocaste** en el programa. :clap:
+:warning: Es importante distinguir programas y procedimientos.
 
-En Gobstones, como en muchos otros lenguajes, los nombres se escriben siguiendo el estilo [CamelCase](http://es.wikipedia.org/wiki/CamelCase) :camel:, el cual consiste en escribir sin espacios ni signos de puntuación y usando una mayúscula para cada palabra, ¡como los hashtags de las redes sociales!
+El procedimiento se define con la palabra `procedure` seguida por un nombre y paréntesis `()`. Luego escribimos entre llaves `{}` todas las acciones que lo describen. Para ver un procedimiento en acción hay que invocarlo dentro de un programa, si no solo será una descripción que nunca se va a ejecutar. :disappointed:
 
-Algunos ejemplos válidos: `DibujarCuadrado()`, `Sacar10Bolitas()`, `LlenarTableroDeBolitasRojas()`.
+El programa se crea con la palabra `program` seguida de llaves `{}`, y adentro de ellas lo que queremos que haga la computadora. ¡No lleva nombre ni paréntesis!
+
 

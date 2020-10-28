@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
-  inspection: Uses:Poner3Verdes
+  inspection: Uses:Poner3Rojas
