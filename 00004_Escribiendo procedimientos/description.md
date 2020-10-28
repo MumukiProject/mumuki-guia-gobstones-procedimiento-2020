@@ -16,7 +16,7 @@ procedure Mover4AlNorte() {
 }
 ```
 
-Y si lo queremos utilizar, tenemos que invocarlo dentro del program escribiendo su nombre tal cual y sin olvidar los paréntesis ¡Prestá atención a la sintaxis!
+Y si lo queremos utilizar, tenemos que invocarlo dentro del `program` escribiendo su nombre tal cual y sin olvidar los paréntesis`()` ¡Prestá atención a la sintaxis!
 
 ``` gobstones
 program {
