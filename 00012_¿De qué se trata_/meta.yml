@@ -1,0 +1,27 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Llena el tablero de bolitas negras
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Dibuja una línea de bolitas negras
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Dibuja una cruz de bolitas negras
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Dibuja un cuadrado de bolitas negras
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Pone 9 bolitas negras en un casillero
+  checked: false
+name: "¿De qué se trata?"
