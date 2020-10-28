@@ -1,4 +1,4 @@
-Tomate unos minutos (no más de 3 :hourglass:) para tratar de descubrir qué es lo que hace el programa a continuación.
+Tomate unos minutos (no más de 3 :hourglass_flowing_sand:) para tratar de descubrir qué es lo que hace el programa a continuación.
 
 ```gobstones
 program {
