@@ -22,7 +22,7 @@ Luego de ejecutar el programa, el resultado será:
 <gs-board>   
   GBB/1.0
   size 4 5
-  head 0 0
+  head 0 3
 <gs-board>
 
 > Definí el procedimiento `RojoAlBorde` que ponga una bolita roja en la esquina superior izquierda del tablero e invocalo en el `program`.
