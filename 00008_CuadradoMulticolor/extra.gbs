@@ -1,15 +1,15 @@
-procedure PonerLineaMulticolor4() {
-  PonerCasilleroMulticolor()
+procedure LineaColorida() {
+  PonerCeldaColorida()
   Mover(Este)
-  PonerCasilleroMulticolor()
+  PonerCeldaColorida()
   Mover(Este)
-  PonerCasilleroMulticolor()
+  PonerCeldaColorida()
   Mover(Este)
-  PonerCasilleroMulticolor() 
+  PonerCeldaColorida()
   IrAlBorde(Oeste)
 }
 
-procedure PonerCasilleroMulticolor() {
+procedure PonerCeldaColorida() {
   Poner(Verde)
   Poner(Rojo)
   Poner(Negro)
