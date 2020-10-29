@@ -1,1 +1,1 @@
-Acordate que los procedimientos se definen solo una vez, y `Poner3Rojas` ya fue definido en uno de los ejercicios anteriores. Acá simplemente tenés que inovocarlo en el `program`, pero ¿cuántas veces? :thinking:
+Acordate que los procedimientos se definen solo una vez, y `Poner3Rojas` ya fue definido en uno de los ejercicios anteriores. Acá simplemente tenés que invocarlo en el `program`, pero ¿cuántas veces? :thinking:
