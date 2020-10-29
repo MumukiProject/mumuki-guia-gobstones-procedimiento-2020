@@ -1,5 +1,6 @@
-Hasta ahora siempre invocamos procedimientos dentro de un programa, pero ¡también se pueden invocar dentro de la definición de otros procedimientos! De hecho es algo que estuvimos haciendo cada vez que poníamos `Mover`, `Poner` o `Sacar` dentro del bloque de un `procedure`.
+Cuando creamos procedimientos agrupamos varias acciones en una tarea que podemos reconocer y nombrar. Eso hace nuestros programas más claros, legibles y nos ahorra repeticiones innecesarias.
 
-¡Probalo!
+Ya vimos que un procedimiento puede ser invocado tantas veces como querramos dentro de un programa, pero como su objetivo es agrupar los pasos de una tarea para usarla cuando haga falta, también lo podemos invocar dentro de otros procedimientos. ¡Vamos a probarlo!
 
-> Definí el procedimiento `Poner9Rojas` que, utilizando `Poner3Rojas`, ponga nueve bolitas rojas. Invocá este nuevo procedimiento en un programa. 
+> Definí el procedimiento `Poner9Rojas` que, utilizando `Poner3Rojas`, ponga nueve bolitas rojas en una celda. 
+Una vez definido, invocá el nuevo procedimiento en un `program`.
