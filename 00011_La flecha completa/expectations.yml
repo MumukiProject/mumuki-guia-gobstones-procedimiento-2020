@@ -4,5 +4,5 @@ expectations:
   binding: program
   inspection: Uses:DibujarDosPuntas
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: DibujarFlechaNegra
+  binding: DibujarDosPuntas
   inspection: Uses:DibujarPuntaNegra
