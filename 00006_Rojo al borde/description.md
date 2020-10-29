@@ -8,7 +8,7 @@ Por suerte :four_leaf_clover: existe una primitiva :gift: llamada `IrAlBorde`, q
 
 <gs-board>   
   GBB/1.0
-  size 4 5
+  size 4 3
   head 0 0
 <gs-board>
 
@@ -21,7 +21,7 @@ program {
 Luego de ejecutar el programa, el resultado será:
 <gs-board>   
   GBB/1.0
-  size 4 5
+  size 4 3
   head 3 0
 <gs-board>
 
