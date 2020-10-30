@@ -6,7 +6,6 @@ Pero si queremos crear una tarea nueva podemos agrupar las acciones que requiere
 
 ``` gobstones
 //Definimos un nuevo procedimiento llamado PonerVerdeYAzul
-
 procedure PonerVerdeYAzul() {
 	Poner(Verde)
 	Poner(Azul)
@@ -17,7 +16,6 @@ La computadora solo va a seguir las instrucciones dentro de un procedimiento cua
 
 ``` gobstones
 //Invocamos PonerVerdeYAzul en el program.
-
 program {
 	PonerVerdeYAzul()
 }
