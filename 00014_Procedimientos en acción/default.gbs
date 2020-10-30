@@ -1,0 +1,6 @@
+procedure PonerNegroYRojo() {
+	Poner(Negro)
+	Poner(Rojo)
+}
+
+//Acá tenés que agregar el program

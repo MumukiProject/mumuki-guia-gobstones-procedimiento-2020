@@ -1,0 +1,1 @@
+:warning: A la hora de **definir** e **invocar** procedimientos tenemos que prestar mucha atención a la sintaxis y a los errores para no perder de vista el objetivo del problema por un error de escritura.:keyboard:
