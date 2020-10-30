@@ -1,4 +1,4 @@
-procedure LineaColorida() {
+procedure DibujarLineaColorida() {
   PonerCeldaColorida()
   Mover(Este)
   PonerCeldaColorida()
