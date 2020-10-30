@@ -4,13 +4,7 @@ Imaginate que no sabés ni dónde está el cabezal ni qué tamaño tiene el tabl
 
 Por suerte :four_leaf_clover: existe una primitiva :gift: llamada `IrAlBorde`, que toma una dirección, y se mueve todo lo que pueda en esa dirección, **hasta llegar al borde**.
 
-¿Cómo? Mirá el ejemplo:
-
-<gs-board>   
-  GBB/1.0
-  size 4 3
-  head 0 0
-<gs-board>
+¿Cómo? Mirá el resultado del siguiente programa:
 
 ``` gobstones
 program {
@@ -18,11 +12,33 @@ program {
 }
 ```
 
-Luego de ejecutar el programa, el resultado será:
-<gs-board>   
-  GBB/1.0
-  size 4 3
-  head 3 0
-<gs-board>
+<table class= "table" style="width:100%">
+  <thead>
+  <tr>
+    <th style="text-align: center">Inicial</th>
+    <th style="text-align: center"></th> 
+    <th style="text-align: center">Final</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td style="text-align: center">  
+      <gs-board>   
+       GBB/1.0
+       size 4 3
+       head 0 0
+      </gs-board>
+    </td>
+    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
+    <td style="text-align: center">
+      <gs-board>   
+        GBB/1.0
+        size 4 3
+        head 3 0
+      </gs-board>
+    </td>
+  </tr>
+  <tbody>
+</table>
 
 > Definí el procedimiento `RojoAlBorde` que ponga una bolita roja en la esquina superior izquierda del tablero e invocalo en el `program`.
