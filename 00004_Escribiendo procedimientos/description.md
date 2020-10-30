@@ -1,6 +1,7 @@
 _Llegó el momento de programar desde cero. ¡No te preocupes! Como recién estamos empezando, repasemos lo que aprendimos._
 
-A esta altura ya sabemos que para programar siempre tenemos que tener en cuenta la sintaxis. Para definir nuevos procedimientos también tenemos reglas: 
+A esta altura ya sabemos que para programar siempre tenemos que tener en cuenta la sintaxis. Para definir nuevos procedimientos también tenemos reglas:
+
 - empezamos con la palabra reservada `procedure`
 - elegimos un nombre que lo describa y lo escribimos con mayúscula seguido de paréntesis `()` 
 - encerramos las acciones que queremos que haga entre llaves `{}`
