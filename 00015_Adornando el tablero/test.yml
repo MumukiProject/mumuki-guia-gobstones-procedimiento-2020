@@ -10,7 +10,7 @@ examples:
      size 4 3
      cell 0 2 Verde 3 Rojo 3
      cell 3 2 Verde 3 Rojo 3
-  head 3 2
+     head 3 2
 
  - initial_board: |
      GBB/1.0
