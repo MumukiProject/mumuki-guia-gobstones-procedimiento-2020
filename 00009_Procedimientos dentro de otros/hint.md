@@ -1,1 +1,1 @@
-No tenés que volver a definir `Poner3Rojas()`, recordá que si un procedimiento está en la **Biblioteca** y lo querés utilizar solamente tenés que invocarlo.
+No tenés que volver a definir `Poner3Rojas()`, recordá que si un procedimiento está en la Biblioteca y lo querés utilizar solamente tenés que invocarlo.
