@@ -2,7 +2,7 @@ Si bien las palabras que utilizamos para crear programas (`program`) y definir p
 
 Cuando creamos un programa nuevo le estamos diciendo a la computadora:computer: lo que queremos que suceda luego de tocar **Enviar**.
 
-Pero si queremos identificar una tarea nueva podemos agrupar las acciones que requiere en un procedimiento al que vamos a definir con un nombre que lo describa.
+Pero si queremos crear una tarea nueva podemos agrupar las acciones que requiere en un procedimiento. Los procedimientos se definen con un **nombre** que lo describa.
 
 ``` gobstones
 //Definimos un nuevo procedimiento llamado PonerVerdeYAzul
