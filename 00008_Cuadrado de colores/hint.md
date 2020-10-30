@@ -1,1 +1,1 @@
-En la _Biblioteca_ tenés el procedimiento `DibujarLineaColorida` que hiciste en el ejercicio anterior, ¡no tenés que volver a definirlo! :gift:
+En la Biblioteca tenés el procedimiento `DibujarLineaColorida` que hiciste en el ejercicio anterior, ¡no tenés que volver a definirlo! :gift:
