@@ -1,4 +1,4 @@
-Cuando creamos procedimientos agrupamos varias acciones en una tarea que podemos reconocer y nombrar. Eso hace nuestros programas más claros, legibles y nos ahorra repeticiones innecesarias.
+Cuando creamos procedimientos agrupamos varias acciones en una tarea que podemos reconocer y nombrar. Eso hace nuestros programas más claros, legibles y nos ahorra repeticiones innecesarias.:ok_hand:
 
 Ya vimos que un procedimiento puede ser invocado tantas veces como querramos dentro de un programa, pero como su objetivo es agrupar los pasos de una tarea para usarla cuando haga falta, también lo podemos invocar dentro de otros procedimientos. ¡Vamos a probarlo!
 
