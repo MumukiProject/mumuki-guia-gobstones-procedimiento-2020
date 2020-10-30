@@ -14,9 +14,9 @@ Queremos decorar con guirnaldas las dos esquinas superiores de cualquier tablero
 
 Pensemos una estrategia distinguiendo subtareas:
 
-Cada guirnalda se compone de 3 bolitas rojas y 3 bolitas verdes. Ya resolvimos cómo hacerlo en otros ejercicios :gift:, hacer una guirnalda solo requerirá combinar esas soluciones. 
+Cada guirnalda se compone de 3 bolitas rojas y 3 bolitas verdes. Ya resolvimos cómo hacerlo en otros ejercicios :gift:, hacer una guirnalda solo requerirá combinar esas soluciones. Y poner una guirnalda, claro. 
 
-¿Y que más?:thinking: el procedimiento que decore el tablero debería poder combinar crear cada guirnalda con alguna primitiva que nos ayude a ubicarnos en los bordes.:wink:
+¿Y que más?:thinking: el procedimiento que decore el tablero debería poder aprovechar la creación de una guirnalda para usarla varias veces. Y elegir la posición para ubicarla. Nos vendría muy bien alguna primitiva que nos ayude a llegar a los bordes.:wink:
 
 ¡Manos a la obra!
 
