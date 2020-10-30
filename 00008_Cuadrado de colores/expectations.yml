@@ -1,11 +1,11 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PonerCuadradoMulticolor4
+  binding: PonerCuadradoColorido
   inspection: Uses:LineaColorida
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
-  inspection: Uses:PonerCuadradoMulticolor4
+  inspection: Uses:PonerCuadradoColorido
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PonerCuadradoMulticolor4
+  binding: PonerCuadradoColorido
   inspection: Uses:IrAlBorde

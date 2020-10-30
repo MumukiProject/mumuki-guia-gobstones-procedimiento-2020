@@ -22,4 +22,4 @@ Vamos a crear un procedimiento que nos permita dibujar un tablero como este:
      head 0 0
 </gs-board>
 
-> Definí un procedimiento `PonerCuadradoMulticolor4` que ponga un cuadrado de 4×4 celdas en el que cada celda tenga una bolita de cada color e invocalo en el `program`. El cabezal debe quedar en la celda inicial.
+> Definí un procedimiento `PonerCuadradoColorido` que ponga un cuadrado de 4×4 celdas en el que cada celda tenga una bolita de cada color e invocalo en el `program`. El cabezal debe quedar en la celda inicial.
