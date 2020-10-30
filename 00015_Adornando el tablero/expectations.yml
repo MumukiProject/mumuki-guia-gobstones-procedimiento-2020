@@ -1,7 +1,7 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Program
+  binding: program
   inspection: Uses:DecorarTablero
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: DecorarTablero
