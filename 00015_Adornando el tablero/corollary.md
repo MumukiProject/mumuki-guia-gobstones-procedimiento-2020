@@ -1,0 +1,1 @@
+Cuanto más complejo sea el problema, más útil nos va a ser pensar una estrategia y organizar la solución en subtareas ¡y los procedimientos están para ayudarnos!
