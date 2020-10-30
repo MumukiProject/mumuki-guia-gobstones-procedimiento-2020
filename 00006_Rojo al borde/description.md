@@ -41,4 +41,6 @@ program {
   <tbody>
 </table>
 
+_¡Vamos a aprovecharlo!_
+
 > Definí el procedimiento `RojoAlBorde` que ponga una bolita roja en la esquina superior izquierda del tablero e invocalo en el `program`.
