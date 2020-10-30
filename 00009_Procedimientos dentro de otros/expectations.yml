@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:Poner9Rojas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Poner9Rojas
+  inspection: Uses:Poner3Rojas
