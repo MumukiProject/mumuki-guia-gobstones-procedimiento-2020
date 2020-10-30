@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Program
+  inspection: Uses:DecorarTablero
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DecorarTablero
+  inspection: Uses:PonerGuirnalda
