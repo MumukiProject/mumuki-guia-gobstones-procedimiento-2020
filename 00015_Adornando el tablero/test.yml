@@ -8,9 +8,9 @@ examples:
    final_board: |
      GBB/1.0
      size 4 3
-     cell 3 0 Verde 3 Rojo 3
+     cell 0 2 Verde 3 Rojo 3
      cell 3 2 Verde 3 Rojo 3
-  head 4 3
+  head 3 2
 
  - initial_board: |
      GBB/1.0
@@ -20,5 +20,5 @@ examples:
      GBB/1.0
      size 5 5
      cell 4 4 Verde 3 Rojo 3
-     cell 4 0 Verde 3 Rojo 3
+     cell 0 4 Verde 3 Rojo 3
      head 4 4     

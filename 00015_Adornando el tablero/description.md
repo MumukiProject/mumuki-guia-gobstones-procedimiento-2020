@@ -5,7 +5,7 @@ Tenemos que decorar el tablero con guirnaldas en sus dos esquinas superiores com
 <gs-board>
  GBB/1.0
   size 4 3
-  cell 3 0 Verde 3 Rojo 3
+  cell 0 2 Verde 3 Rojo 3
   cell 3 2 Verde 3 Rojo 3
   head 0 0 
 </gs-board>
