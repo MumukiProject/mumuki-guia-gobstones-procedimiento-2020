@@ -1,4 +1,4 @@
-Si bien las palabras que utilizamos para crear programas (`program`) y definir procedimientos (`procedure`) se escriben parecido son cosas muy distintas. Si prestás atención vas a notar que la sintaxis para utilizarlas también es diferente.
+Si bien las palabras que utilizamos para crear programas (`program`) y definir procedimientos (`procedure`) se escriben parecido son cosas muy distintas. Si prestás atención :eyes: vas a notar que la sintaxis para utilizarlas también es diferente.
 
 Cuando creamos un programa nuevo le estamos diciendo a la computadora:computer: lo que queremos que suceda luego de tocar **Enviar**.
 
