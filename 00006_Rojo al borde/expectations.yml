@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:RojoAlBorde
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RojoAlBorde
+  inspection: Uses:IrAlBorde

@@ -26,7 +26,7 @@ program {
       <gs-board>   
        GBB/1.0
        size 4 2
-       head 0 0
+       head 0 1
       </gs-board>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
@@ -34,7 +34,7 @@ program {
       <gs-board>   
         GBB/1.0
         size 4 2
-        head 3 0
+        head 3 1
       </gs-board>
     </td>
   </tr>
