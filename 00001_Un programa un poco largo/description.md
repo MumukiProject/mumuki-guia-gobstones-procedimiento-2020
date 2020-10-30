@@ -1,4 +1,4 @@
-Ahora tenés la posibilidad de ver en acción este programa que a primera vista nos puede confundir. 
+Ahora tenés la posibilidad de ver en acción el programa.
 
 ```gobstones
 program {
