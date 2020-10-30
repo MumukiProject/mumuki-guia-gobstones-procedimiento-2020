@@ -1,1 +1,1 @@
-Aunque ahora pudimos probar el programa, sigue siendo un poco confuso entender de que se trata con solo leerlo ¿no sería mejor si el programa **también** fuera fácil de entender para un humano? :face_with_monocle:
+Aunque ahora pudimos probarlo, sigue siendo un poco confuso saber de que se trata el programa con solo leerlo ¿no sería mejor si **también** fuera fácil de entender para un humano? :face_with_monocle:
