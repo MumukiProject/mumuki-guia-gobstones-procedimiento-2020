@@ -1,4 +1,5 @@
-check_head_position: false
+check_head_position: true
+
 examples:
  - initial_board: |
      GBB/1.0
@@ -20,4 +21,4 @@ examples:
      size 5 5
      cell 4 4 Verde 3 Rojo 3
      cell 0 4 Verde 3 Rojo 3
-     head 4 4     
+     head 4 4
