@@ -1,0 +1,11 @@
+procedure Poner3Verdes(){
+  Poner(Verde)
+  Poner(Verde)
+  Poner(Verde)
+}
+
+procedure Poner3Rojas(){
+  Poner(Rojo)
+  Poner(Rojo)
+  Poner(Rojo)
+}

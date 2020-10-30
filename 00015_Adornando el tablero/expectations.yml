@@ -6,3 +6,9 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: DecorarTablero
   inspection: Uses:PonerGuirnalda
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerGuirnalda
+  inspection: Uses:Poner3Rojas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerGuirnalda
+  inspection: Uses:Poner3Verdes
