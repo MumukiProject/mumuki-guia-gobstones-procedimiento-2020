@@ -8,7 +8,7 @@ Para facilitarte las cosas, a veces te ofreceremos partes del problema resuelto,
 
 <gs-board>
  GBB/1.0
-  size 4 4
+  size 3 2
   cell 0 0 Verde 3 
   cell 1 0 Verde 3 
   head 0 0
