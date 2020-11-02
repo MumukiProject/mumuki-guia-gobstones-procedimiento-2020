@@ -2,5 +2,3 @@ procedure PonerNegroYRojo() {
 	Poner(Negro)
 	Poner(Rojo)
 }
-
-//Acá tenés que escribir el program
