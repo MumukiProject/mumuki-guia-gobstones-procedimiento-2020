@@ -14,4 +14,4 @@ Para facilitarte las cosas, a veces te ofreceremos partes del problema resuelto,
   head 0 0
 </gs-board>
 
-> Creá un programa que lo haga invocando el procedimiento Poner3Verdes. Recordá que ya te lo damos definido ¡no tenés que volver a escribirlo!
+> Creá un programa que lo haga invocando el procedimiento `Poner3Verdes`. Recordá que ya te lo damos definido ¡no tenés que volver a escribirlo!
