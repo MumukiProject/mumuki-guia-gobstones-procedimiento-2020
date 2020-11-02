@@ -4,9 +4,10 @@ Por eso, su nombre debe ser **único** dentro de todo el programa. Recordá que 
 
 Para facilitarte las cosas, a veces te ofreceremos partes del problema resuelto, para que sólo tengas que enfocarte en lo que falta resolver. ¿Y dónde están? Mirá el editor y fijate si encontrás la pestaña **Biblioteca**  :raised_hands:. Lo que aparece en la Biblioteca no hace falta que lo escribas en el código, ¡si está ahí podés invocarlo directamente! :tada:
 
-¡Vamos a probarlo! Queremos poner 3 bolitas verdes en dos celdas consecutivas como muestra el tablero:
 
-<gs-board>
+> ¡Vamos a probarlo! Queremos poner 3 bolitas verdes en dos celdas consecutivas como muestra el tablero:
+
+> <gs-board>
  GBB/1.0
   size 3 2
   cell 0 0 Verde 3 
@@ -14,4 +15,4 @@ Para facilitarte las cosas, a veces te ofreceremos partes del problema resuelto,
   head 0 0
 </gs-board>
 
-> Creá un programa que lo haga invocando el procedimiento `Poner3Verdes`. Recordá que ya te lo damos definido ¡no tenés que volver a escribirlo!
+> **Creá un programa** que lo haga invocando el procedimiento `Poner3Verdes`. Recordá que ya te lo damos definido ¡no tenés que volver a escribirlo!
