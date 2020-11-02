@@ -1,0 +1,6 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    error_contains: El procedimiento "Poner3Rojas" está definido dos veces
+  then: El procedimiento "Poner3Rojas" está definido en Biblioteca

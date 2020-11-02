@@ -1,1 +1,1 @@
-Como te contamos, en algunos ejercicios vas a encontrar la Biblioteca. No te olvides de revisar las herramientas que nos ofrece para saber cuáles podemos aprovechar cuando resolvamos nuestro problema.
+No te olvides de revisar las herramientas que nos ofrece la Biblioteca para saber cuáles podemos aprovechar cuando resolvamos nuestro problema.
