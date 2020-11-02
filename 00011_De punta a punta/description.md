@@ -12,6 +12,4 @@ En el ejercicio anterior ya dibujamos una punta, ahora vamos a pensar cómo apro
   head 0 0
 </gs-board>
 
-Acordate de utilizar `DibujarPuntaNegra` para esto.
-
 > Definí el procedimiento `DibujarDosPuntas` e invocalo dentro un `program`. Acordate de utilizar `DibujarPuntaNegra`.
