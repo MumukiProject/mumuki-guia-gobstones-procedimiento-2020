@@ -1,6 +1,6 @@
 _Llegó el momento de programar desde cero. ¡No te preocupes! Como recién estamos empezando, repasemos lo que aprendimos._
 
-A esta altura ya sabemos que para programar siempre tenemos que tener en cuenta la sintaxis. Para definir nuevos procedimientos también tenemos reglas:
+A esta altura ya sabemos que para programar siempre tenemos que tener en cuenta la sintaxis y que para definir nuevos procedimientos también tenemos reglas:
 
 - empezamos con la palabra reservada `procedure`
 - elegimos un nombre que lo describa y lo escribimos con mayúscula seguido de paréntesis `()` 
@@ -27,4 +27,4 @@ program {
 
 ¡Ahora te toca a vos! :grin:
 
-> Definí un procedimiento `Poner3Verdes` que ponga 3 bolitas verdes en la celda actual e invocalo en el `program`.
+> **Definí** un procedimiento `Poner3Verdes` que ponga 3 bolitas verdes en la celda actual e **invocalo** en el `program`.
