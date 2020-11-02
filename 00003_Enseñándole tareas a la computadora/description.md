@@ -19,4 +19,4 @@ program {
 }
 ```
 
-> ¿Qué te parece que hace el nuevo procedimiento :thinking:? Copiá y enviá el código para ver qué pasa.
+> ¿Qué te parece que hace el nuevo procedimiento? :thinking: Copiá y enviá el código para ver qué pasa.
