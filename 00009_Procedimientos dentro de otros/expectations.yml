@@ -14,4 +14,4 @@ expectations:
   inspection: Declares:Poner9Rojas
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Except:HasUsageTypos
+  inspection: Except:HasDeclarationTypos
