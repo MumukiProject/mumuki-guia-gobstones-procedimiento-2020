@@ -12,3 +12,15 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: PonerGuirnalda
   inspection: Uses:Poner3Verdes
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:DecorarTablero
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:PonerGuirnalda
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Not:Declares:Poner3Verdes
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Not:Declares:Poner3Rojas

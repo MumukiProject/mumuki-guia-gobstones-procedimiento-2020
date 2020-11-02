@@ -1,3 +1,3 @@
-En **Biblioteca** tenés definidos procedimientos :raised_hands: que te pueden ayudar. 
+En la Biblioteca ya tenés definidos procedimientos :raised_hands: que te pueden ayudar. 
 
-No te olvides de utilizar `IrAlBorde`.
+:warning:No te olvides de utilizar `IrAlBorde`.
