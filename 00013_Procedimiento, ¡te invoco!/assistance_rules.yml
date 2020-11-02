@@ -1,0 +1,6 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    error_contains: El procedimiento "Poner3Verdes" está definido dos veces
+  then: "\"Poner3Verdes ya está definido en la Biblioteca, no debés volver a hacerlo"
