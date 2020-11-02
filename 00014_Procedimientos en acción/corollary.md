@@ -1,1 +1,1 @@
-:warning: A la hora de **definir** e **invocar** procedimientos tenemos que prestar mucha atención a la sintaxis para no perder de vista el objetivo del problema por un error de escritura.:keyboard:
+Somos un poco insistentes, pero a la hora de **definir** e **invocar** procedimientos tenemos que prestar mucha atención a la sintaxis para no perder de vista el objetivo del problema por un error de escritura.:keyboard:
