@@ -2,9 +2,9 @@ _Llegó el momento de programar desde cero. ¡No te preocupes! Como recién esta
 
 A esta altura ya sabemos que para programar siempre tenemos que tener en cuenta la sintaxis y que para definir nuevos procedimientos también tenemos reglas:
 
-- empezamos con la palabra reservada `procedure`
-- elegimos un nombre que lo describa y lo escribimos con mayúscula seguido de paréntesis `()` 
-- encerramos las acciones que queremos que haga entre llaves `{}`
+- empezamos con la palabra reservada `procedure`;
+- elegimos un nombre que lo describa y lo escribimos con mayúscula seguido de paréntesis `()`;
+- encerramos las acciones que queremos que haga entre llaves `{}`.
 
 Entonces, un procedimiento que se mueve cuatro celdas al Norte se va a definir así:
 
