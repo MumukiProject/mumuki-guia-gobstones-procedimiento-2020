@@ -1,4 +1,4 @@
-En el ejercicio anterior ya dibujamos una punta, ahora vamos a pensar cómo aprovechar lo que hicimos para crear un tablero como este:
+En el ejercicio anterior ya dibujamos una punta, ahora vamos a pensar cómo aprovechar el procedimiento que hicimos para crear un tablero como este:
 
 <gs-board without-header="true">
  GBB/1.0
