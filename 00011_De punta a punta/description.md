@@ -1,6 +1,4 @@
-En el ejercicio anterior ya dibujamos una punta, ahora vamos a pensar cómo aprovechar lo que hicimos.
-
-:warning: Podemos crear diferentes soluciones que resuelvan un mismo problema, por eso el procedimiento `DibujarPuntaNegra` que está en Biblioteca puede variar en algún detalle respecto al que creaste. Te recomendamos mirar bien su funcionamiento y aprovecharlo para crear un tablero como este:
+En el ejercicio anterior ya dibujamos una punta, ahora vamos a pensar cómo aprovechar lo que hicimos para crear un tablero como este:
 
 <gs-board without-header="true">
  GBB/1.0
