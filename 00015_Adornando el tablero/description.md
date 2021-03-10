@@ -4,7 +4,7 @@ Uno de los objetivos al usar procedimientos es identificar y nombrar las subtare
 
 Queremos decorar con guirnaldas las dos esquinas superiores de _cualquier_ tablero como muestra la imagen.
 
-<gs-board>
+<gs-board without-header="true">
  GBB/1.0
   size 4 3
   cell 0 2 Verde 3 Rojo 3
@@ -21,4 +21,4 @@ Cada guirnalda se compone de 3 bolitas rojas y 3 bolitas verdes. Ya resolvimos c
 ¡Manos a la obra!
 
 > Definí dos procedimientos: el procedimiento `PonerGuirnalda` que coloque 3 bolitas rojas y 3 bolitas verdes en una celda y el procedimiento `DecorarTablero` que  lo utilice y ponga una guirnalda en cada esquina superior.
-Invocá `DecorarTablero` en el `program`.
+Invocá `DecorarTablero` en el `program`. Tené en cuenta que no sabemos la posición inicial donde se encontrará el cabezal.
