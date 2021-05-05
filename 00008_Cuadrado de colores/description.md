@@ -23,3 +23,7 @@ Vamos a crear un procedimiento que nos permita dibujar un tablero como este:
 </gs-board>
 
 > Definí un procedimiento `DibujarCuadradoColorido` que dibuje un cuadrado de 4×4 celdas en el que cada celda tenga una bolita de cada color e invocalo en el `program`. El cabezal debe quedar en la celda inicial.
+
+Si querés repasar las diferencias entre programas y procedimientos podés ver este video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A6j1oYf1MIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
