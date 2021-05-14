@@ -12,7 +12,7 @@ program {
 }
 ```
 
-<table class= "table" style="width:100%">
+<table class= "table table-borderless" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Inicial</th>
