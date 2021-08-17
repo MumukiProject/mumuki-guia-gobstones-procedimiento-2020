@@ -16,6 +16,6 @@ _¿Cómo podemos dibujarla? ¿Cuál es la tarea que se repite? ¿Se puede defini
 
 > Definí un procedimiento `DibujarLineaColorida` que **dibuje una línea multicolor** de cuatro celdas hacia el `Este` y al finalizarla ubique el cabezal en la celda inicial. Invocá el nuevo procedimiento en un `program`.
 
-Te compartimos este video para ayudarte a elegir buenos nombres y que te código más expresivo:
+Te compartimos este video para ayudarte a elegir buenos nombres y que tu código más expresivo:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FicpiAU1R5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
