@@ -21,4 +21,4 @@ program {
 }
 ```
 
-> Completá el código para que además de **definir** el procedimiento `PonerNegroyRojo` luego lo **invoque** en el `program`.
+> Completá el código para que además de **definir** el procedimiento `PonerNegroYRojo` luego lo **invoque** en el `program`.
