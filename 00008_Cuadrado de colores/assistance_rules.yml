@@ -1,7 +1,0 @@
----
-rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    these_expectations_failed:
-    - "* Declares:DibujarCuadradoColorido"
-  then: recordá definir el procedimiento `DibujarCuadradoColorido`
