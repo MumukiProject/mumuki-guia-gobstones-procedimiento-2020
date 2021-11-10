@@ -8,4 +8,4 @@ expectations:
   inspection: Uses:DibujarLineaColorida
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:DibujarCuadradoColorido
+  inspection: Not:Declares:DibujarCuadroColorido

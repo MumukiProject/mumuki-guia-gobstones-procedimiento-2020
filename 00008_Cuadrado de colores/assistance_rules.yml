@@ -1,0 +1,7 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - "* Not:Declares:DibujarCuadroColorido"
+  then: el nombre del procedimiento que tenés que definir es `DibujarCuadradoColorido`
