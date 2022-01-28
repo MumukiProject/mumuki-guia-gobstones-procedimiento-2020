@@ -1,4 +1,4 @@
-Ahora tenés la posibilidad de ver en acción el programa.
+Ahora tenés la posibilidad de conocer el programa en acción.
 
 ```gobstones
 program {
