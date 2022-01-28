@@ -2,7 +2,7 @@ Algo _MUY_ importante es que un procedimiento se define **una sola vez** y luego
 
 Por eso, su nombre debe ser **único** dentro de todo el programa. Recordá que la computadora no hace más que seguir órdenes y si existiera más de un procedimiento con el mismo nombre, no sabría cuál elegir. :confused:
 
-Para facilitarte las cosas, a veces te ofreceremos partes del problema resuelto, para que sólo tengas que enfocarte en lo que falta resolver. ¿Y dónde están? Mirá el editor y fijate si encontrás la pestaña **Biblioteca**  :raised_hands:. Lo que aparece en la Biblioteca no hace falta que lo escribas en el código, ¡si está ahí podés invocarlo directamente! :tada:
+Para facilitarte las cosas, a veces te ofreceremos partes del problema resuelto, para que sólo tengas que enfocarte en lo que falta resolver. ¿Y dónde están? Revisá el editor y fijate si encontrás la pestaña **Biblioteca**  :raised_hands:. Lo que aparece en la Biblioteca no hace falta que lo escribas en el código, ¡si está ahí podés invocarlo directamente! :tada:
 
 
 > ¡Vamos a probarlo! Queremos poner 3 bolitas verdes en dos celdas consecutivas como muestra el tablero:
