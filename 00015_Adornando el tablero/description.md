@@ -1,8 +1,8 @@
 _Para resolver un problema nos conviene comprender bien de qué se trata para elegir una estrategia. Es el momento de empezar a hacerlo aprovechando los procedimientos._
 
-Uno de los objetivos al usar procedimientos es identificar y nombrar las subtareas :wrench: que conforman un problema y combinar sus soluciones para poder resolverlo. Veamos un ejemplo:
+Uno de los objetivos al usar procedimientos es identificar y nombrar las subtareas :wrench: que conforman un problema y combinar sus soluciones para poder resolverlo. Probemos cómo sería:
 
-Queremos decorar con guirnaldas las dos esquinas superiores de _cualquier_ tablero como muestra la imagen.
+Queremos decorar con guirnaldas las dos esquinas superiores de _cualquier_ tablero como se presenta a continuación.
 
 <gs-board without-header="true">
  GBB/1.0
