@@ -1,10 +1,10 @@
-Si bien las palabras que utilizamos para crear programas (`program`) y definir procedimientos (`procedure`) se escriben parecido son cosas muy distintas.
+Si bien las palabras que utilizamos para crear programas (`program`) y definir procedimientos (`procedure`) se escriben parecido, son cosas muy distintas.
 
 Cuando creamos un programa nuevo le estamos diciendo a la computadora:computer: lo que queremos que suceda luego de tocar :arrow_forward:**Enviar**.
 
 Pero si queremos crear una tarea nueva podemos agrupar las acciones que requiere en un procedimiento. Los procedimientos se definen con un **nombre** que describa lo que hace.
 
-Veamos cómo creamos un nuevo procedimiento llamado PonerVerdeYAzul. :eyes:
+Analicemos cómo definir un nuevo procedimiento llamado PonerVerdeYAzul. :eyes:
 
 ``` gobstones
 procedure PonerVerdeYAzul() {
