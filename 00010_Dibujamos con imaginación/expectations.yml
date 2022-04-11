@@ -4,5 +4,5 @@ expectations:
   binding: program
   inspection: Uses:DibujarPuntaNegra
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
+  binding: Intransitive:program
   inspection: Not:Uses:Mover
