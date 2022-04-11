@@ -1,2 +1,2 @@
 expectation "El programa debe invocar `DibujarPuntaNegra` solo una vez":
-  count(uses DibujarPuntaNegra) = 1;
+  within program count(uses DibujarPuntaNegra) = 1;
